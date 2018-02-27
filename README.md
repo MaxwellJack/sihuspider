@@ -1,0 +1,3 @@
+# sihuspider
+sihu 网站的爬虫
+yemianspider.py是获取索引页面的的链接地址来，而lianjiespider.py是通过图片的链接地址是逐渐增加的规律来找到页面的地址。
